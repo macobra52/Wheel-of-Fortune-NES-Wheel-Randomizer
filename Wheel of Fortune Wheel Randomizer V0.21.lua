@@ -59,7 +59,6 @@ local function randomizeWheel()
 	local value = 0;
 	local r;
 	local i;
-	math.randomseed(os.time())
 	
 	if round ~= 0x02 or (round == 0x02 and betterSpeedUpWheel == false) then
 		--minimum 2 non-special, non-high
