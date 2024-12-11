@@ -200,6 +200,8 @@ while (true) do
 			currentRoundAddress = 0xBF;
 			spinAddress = 0xB0;
 		end;
+		--Seed the RNG
+		math.randomseed(os.time())
 		romCheck = true;
 	end;
 	
