@@ -1,6 +1,6 @@
 # Wheel of Fortune (NES) Wheel Randomizer
 
-This is a simple LUA script that randomizes the wheel in all NES versions of Wheel of Fortune, including:
+This is a simple LUA script that randomizes the wheel in all NES versions of Wheel of Fortune developed by Rare, including:
 - Wheel of Fortune (U)
 - Wheel of Fortune Family Edition (U)
 - Wheel of Fortune Junior Edition (U)
