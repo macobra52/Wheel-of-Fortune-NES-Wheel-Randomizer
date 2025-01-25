@@ -170,7 +170,7 @@ end;
 
 while (true) do
 	if romCheck == false then
-		print("Wheel of Fortune (NES) Wheel Randomizer V0.1, by MaCobra52");
+		print("Wheel of Fortune (NES) Wheel Randomizer (Family Edition), by MaCobra52");
 		if randomizeEverySpin == true then	
 			print("Randomize every spin");
 		else
