@@ -8,9 +8,11 @@ This is a simple LUA script that randomizes the wheel in all NES versions of Whe
 
 Other versions/romhacks are untested.
 
-# Requirements
+# Instructions
 
-- Any NES emulator that supports LUA (FCEUX, Bizhawk, Mesen, etc.)
+- Simply load the appropriate script into any NES emulator that supports LUA (FCEUX, Bizhawk, Mesen, etc.)
+  - To randomize Family Edition (or any romhacks of Family Edition), use the (Family Edition) script.
+  - For all other versions (Regular, Junior Edition, and romhacks of those versions), use the regular script.
 
 # Configurable Options
 
