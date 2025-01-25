@@ -1,7 +1,7 @@
--- Wheel of Fortune (NES) Wheel Randomizer V0.21
+-- Wheel of Fortune (NES) Wheel Randomizer V0.22
 -- By MaCobra52
 -- Special thanks to LoZCardsfan23 for making all of this possible!
--- Tested with all versions of Wheel of Fortune (U) and Wheel of Fortune Gamer Edition. May not properly work with other romhacks
+-- Only compatible with WoF Family Edition (and romhacks of Family Edition)
 
 --Configurable options:
 
